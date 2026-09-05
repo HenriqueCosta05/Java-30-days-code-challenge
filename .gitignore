@@ -1,1 +1,4 @@
 /out
+02_GithubActivity/out/
+02_GithubActivity/test-out/
+.github-activity-cache/
